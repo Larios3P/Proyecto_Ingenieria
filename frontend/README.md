@@ -2,7 +2,7 @@
 
 Interfaz web desarrollada con Next.js (App Router), TypeScript y Tailwind CSS.
 
-## Ejecución rápida en VS Code
+### Ejecución rápida en VS Code ###
 
 1. Abrir una terminal dentro de la carpeta `frontend/`.
 2. Instalar dependencias (solo la primera vez):
